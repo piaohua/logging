@@ -1,9 +1,9 @@
 # logging
 
 * refer
-(github.com/op/go-logging)</br>
-(github.com/sirupsen/logrus)</br>
-(github.com/golang/glog)</br>
+    https://github.com/op/go-logging</br>
+    https://github.com/sirupsen/logrus</br>
+    https://github.com/golang/glog</br>
 
 ## Installation
 
