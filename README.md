@@ -4,6 +4,7 @@
     https://github.com/op/go-logging</br>
     https://github.com/sirupsen/logrus</br>
     https://github.com/golang/glog</br>
+    https://github.com/fatih/color</br>
 
 ## Installation
 
